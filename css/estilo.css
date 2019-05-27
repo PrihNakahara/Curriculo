@@ -1,15 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:700&display=swap');
 body {
-    background: url(images/cv_background.jpg) no-repeat;
+    background-image: url(../images/cv_background.jpg);
+    font-family: 'Rubik', sans-serif;
 }
 h1 {
-    color: 
+    color: #138091;
+}
+h2{
+    
 }
 ul{
-    
+    list-style: none;    
 }
 #cv_img{
     width: 250px;
     height: 250px;
     border-radius: 50%;
-    border: 3px solid blue;
+    border: 3px solid #17a2b8;
+    position: absolute;
+	top: 0px;
+	left: 1000px;
+}
+header {
+    
+}
+.shrink:hover
+{
+        -webkit-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        transform: scale(0.8);
 }
