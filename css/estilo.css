@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik:700&display=swap');
 body {
-    background-image: url(../images/cv_background.jpg);
+    background-image: url(../images/cv_background.png);
     font-family: 'Rubik', sans-serif;
 }
 h1 {
@@ -32,4 +32,18 @@ h4{
 }
 hr{
     border: 2px solid;
+}
+.bola {
+    border-radius: 50%;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: #138091;
+}
+.bola2 {
+    border-radius: 50%;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: #8e9ea0;
 }
