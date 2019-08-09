@@ -1,2 +1,2 @@
-# meu_cv
-Meu currículo no GITHUB
+# Currículo
+Meu currículo no GITHUB, projeto desenvolvido com HTML, CSS e BootStrap
